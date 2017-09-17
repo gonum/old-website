@@ -259,7 +259,7 @@ blockquote p:last-child {
   width: 200px;
   height: 200px;
   margin: 0 auto;
-  border-radius: 50%;
+  border-radius: 0%;
   background-size: cover;
   -webkit-background-size: cover;
   -moz-background-size: cover;
