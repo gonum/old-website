@@ -35,7 +35,7 @@ weight = 1
  
 +++
 
-Gonum is a set of packages designed to make writing numeric and scientific
+Gonum is a set of packages designed to make writing numerical and scientific
 algorithms productive, performant, and scalable.
 
 Gonum contains libraries for [matrices and linear algebra](https://godoc.org/gonum.org/v1/gonum/mat);
