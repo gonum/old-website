@@ -1,9 +1,18 @@
----
-title: "Introduction to Statistics With Gonum"
-date: 2017-10-04T11:17:11+02:00
-categories: ["go", "gonum", "stat"]
-summary: "The first of a series of short posts providing an introduction and code examples for using the Gonum packages."
----
++++
+date = "2017-10-04T11:17:11+02:00"
+draft = false
+tags = ["stat"]
+title = "Introduction to Statistics With Gonum"
+math = true
+summary = """
+First article in a series on using Gonum to apply statistics.
+"""
+
+[header]
+image = ""
+caption = ""
+
++++
 
 _The following was cross-posted (with minor changes) from [sbinet.github.io/posts/2017-10-04-intro-to-stats-with-gonum](https://sbinet.github.io/posts/2017-10-04-intro-to-stats-with-gonum/)_
 
