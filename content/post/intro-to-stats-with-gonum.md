@@ -1,7 +1,8 @@
 ---
 title: "Introduction to Statistics With Gonum"
 date: 2017-10-04T11:17:11+02:00
-Categories: ["go", "gonum", "stat"]
+categories: ["go", "gonum", "stat"]
+summary: "The first of a series of short posts providing an introduction and code examples for using the Gonum packages."
 ---
 
 _The following was cross-posted (with minor changes) from [sbinet.github.io/posts/2017-10-04-intro-to-stats-with-gonum](https://sbinet.github.io/posts/2017-10-04-intro-to-stats-with-gonum/)_
@@ -13,7 +14,7 @@ This first post is based off the content of this blog post:
 
  https://mubaris.com/2017-09-09/introduction-to-statistics-using-numpy
 
-but using [Go](https://golang.org) and [Gonum](https://gonum.org) instead of Python and `numpy`.
+but using [Go](https://golang.org) and [Gonum](https://gonum.org) instead of Python and NumPy.
 
 [Gonum](https://gonum.org) is _"a set of packages designed to make writing numerical and scientific algorithms productive, performant and scalable."_
 Please refer to this [post](/post/introtogonum) for more details on Gonum.
