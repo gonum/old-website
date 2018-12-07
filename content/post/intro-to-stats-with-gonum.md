@@ -12,7 +12,7 @@ This first post focuses on computing basic statistics using the [stat](https://g
 
 This first post is based off the content of this blog post:
 
- https://mubaris.com/2017-09-09/introduction-to-statistics-using-numpy
+ https://mubaris.com/posts/statistics/
 
 but using [Go](https://golang.org) and [Gonum](https://gonum.org) instead of Python and NumPy.
 
