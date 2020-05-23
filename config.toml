@@ -129,6 +129,11 @@ defaultContentLanguageInSubdir = false
     link = "//github.com/gonum"
 
   [[params.social]]
+    icon = "book"
+    icon_pack = "fa"
+    link = "https://pkg.go.dev/mod/gonum.org/v1/gonum"
+
+  [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
     link = "https://groups.google.com/forum/#!forum/gonum-dev"
